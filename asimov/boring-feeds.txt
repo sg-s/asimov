@@ -1,0 +1,114 @@
+Nature Biotechnology | http://feeds.nature.com/nbt/rss/current
+Nature Cell Biology | http://feeds.nature.com/ncb/rss/current
+Nature Chemical Biology | http://feeds.nature.com/nchembio/rss/current
+Nature Chemistry | http://feeds.nature.com/nchem/rss/current
+Nature Climate Change | http://feeds.nature.com/nclimate/rss/current
+Nature Energy | http://feeds.nature.com/nenergy/rss/current
+Nature Genetics | http://feeds.nature.com/ng/rss/current
+Nature Geoscience | http://feeds.nature.com/ngeo/rss/current
+Nature Immunology | http://feeds.nature.com/ni/rss/current
+Nature Materials | http://feeds.nature.com/nmat/rss/current
+Nature Medicine | http://feeds.nature.com/nm/rss/current
+Nature Methods | http://feeds.nature.com/nmeth/rss/current
+Nature Microbiology | http://feeds.nature.com/nmicrobiol/rss/current
+Nature Nanotechnology | http://feeds.nature.com/nnano/rss/current
+Nature Photonics | http://feeds.nature.com/nphoton/rss/current
+Nature Plants | http://feeds.nature.com/nplants/rss/current
+Nature Structural & Molecular Biology | http://feeds.nature.com/nsmb/rss/current
+Nature Reviews Cancer | http://feeds.nature.com/nrc/rss/current
+Nature Reviews Disease Primers | http://feeds.nature.com/nrdp/rss/current
+Nature Reviews Drug Discovery | http://feeds.nature.com/nrd/rss/current
+Nature Reviews Genetics | http://feeds.nature.com/nrg/rss/current
+Nature Reviews Immunology | http://feeds.nature.com/nri/rss/current
+Nature Reviews Microbiology | http://feeds.nature.com/nrmicro/rss/current
+Nature Reviews Molecular Cell Biology | http://feeds.nature.com/nrm/rss/current
+Nature Reviews Cardiology | http://feeds.nature.com/nrcardio/rss/current
+Nature Reviews Clinical Oncology | http://feeds.nature.com/nrclinonc/rss/current
+Nature Reviews Endocrinology | http://feeds.nature.com/nrendo/rss/current
+Nature Reviews Gastroenterology & Hepatology | http://feeds.nature.com/nrgastro/rss/current
+Nature Reviews Nephrology | http://feeds.nature.com/nrneph/rss/current
+Nature Reviews Neurology | http://feeds.nature.com/nrneurol/rss/current
+Nature Reviews Rheumatology | http://feeds.nature.com/nrrheum/rss/current
+Nature Reviews Urology | http://feeds.nature.com/nrurol/rss/current
+Acta Pharmacologica Sinica | http://feeds.nature.com/aps/rss/current
+Asian Journal of Andrology | http://feeds.nature.com/aja/rss/current
+Bone Marrow Transplantation | http://feeds.nature.com/bmt/rss/current
+BoneKEy Reports | http://feeds.nature.com/bonekeyreports/rss/current
+Bone Research | http://feeds.nature.com/boneres/rss/current
+British Dental Journal | http://feeds.nature.com/bdj/rss/current
+British Journal of Cancer | http://feeds.nature.com/bjc/rss/current
+Cancer Gene Therapy | http://feeds.nature.com/cgt/rss/current
+Cell Death and Differentiation | http://feeds.nature.com/cdd/rss/current
+Cell Death and Disease | http://feeds.nature.com/cddis/rss/current
+Cell Discovery | http://feeds.nature.com/celldisc/rss/current
+Cell Death Discovery | http://feeds.nature.com/cddiscovery/rss/current
+Cell Research | http://feeds.nature.com/cr/rss/current
+Cellular & Molecular Immunology | http://feeds.nature.com/cmi/rss/current
+Clinical and Translational Gastroenterology | http://feeds.nature.com/ctg/rss/current
+Emerging Microbes & Infections | http://feeds.nature.com/emi/rss/current
+European Journal of Clinical Nutrition | http://feeds.nature.com/ejcn/rss/current
+European Journal of Human Genetics | http://feeds.nature.com/ejhg/rss/current
+Evidence-Based Dentistry | http://feeds.nature.com/ebd/rss/current
+Eye | http://feeds.nature.com/eye/rss/current
+Gene Therapy | http://feeds.nature.com/gt/rss/current
+Genes and Immunity | http://feeds.nature.com/gene/rss/current
+Heredity | http://feeds.nature.com/hdy/rss/current
+Horticulture Research | http://feeds.nature.com/hortres/rss/current
+Human Genome Variation | http://feeds.nature.com/hgv/rss/current
+Hypertension Research | http://feeds.nature.com/hr/rss/current
+IBMS BoneKEy | http://feeds.nature.com/bonekey/rss/current
+Immunology and Cell Biology | http://feeds.nature.com/icb/rss/current
+International Journal of Impotence Research | http://feeds.nature.com/ijir/rss/current
+International Journal of Obesity | http://feeds.nature.com/ijo/rss/current
+International Journal of Obesity Supplements | http://feeds.nature.com/ijosup/current_issue/rss
+International Journal of Oral Science | http://feeds.nature.com/ijos/rss/current
+Journal of Exposure Science and Environmental Epidemiology | http://feeds.nature.com/jes/rss/current
+Journal of Exposure Science and Environmental Epidemiology - AOP | http://feeds.nature.com/jes/rss/aop
+Journal of Human Genetics | http://feeds.nature.com/jhg/rss/current
+Journal of Human Hypertension | http://feeds.nature.com/jhh/rss/current
+Journal of Perinatology | http://feeds.nature.com/jp/rss/current
+Laboratory Investigation | http://feeds.nature.com/labinvest/current/rss
+Leukemia | http://feeds.nature.com/leu/rss/current
+Leukemia Supplements | http://feeds.nature.com/leusup/rss/current
+Light: Science & Applications | http://feeds.nature.com/lsa/rss/current
+Microsystems & Nanoengineering | http://feeds.nature.com/micronano/rss/current
+Modern Pathology | http://feeds.nature.com/modpathol/rss/current
+Molecular Systems Biology | http://feeds.nature.com/msb/rss/current
+Mucosal Immunology | http://feeds.nature.com/mi/rss/current
+Neuropsychopharmacology | http://feeds.nature.com/npp/rss/current
+NPG Asia Materials | http://feeds.nature.com/am/rss/current
+npj Aging and Mechanisms of Disease | http://feeds.nature.com/npjamd/rss/current
+npj Biofilms and Microbiomes | http://feeds.nature.com/npjbiofilms/rss/current
+npj Breast Cancer | http://feeds.nature.com/npjbcancer/rss/current
+npj Genomic Medicine | http://feeds.nature.com/npjgenmed/rss/current
+npj Microgravity | http://feeds.nature.com/npjmgrav/rss/current
+npj Primary Care Respiratory Medicine | http://feeds.nature.com/npjpcrm/rss/current
+npj Quantum Information | http://feeds.nature.com/npjqi/rss/current
+npj Quantum Materials | http://feeds.nature.com/npjquantmats/rss/current
+npj Regenerative Medicine | http://feeds.nature.com/npjregenmed/rss/current
+npj Science of Learning | http://feeds.nature.com/npjscilearn/rss/current
+npj Schizophrenia | http://feeds.nature.com/npjschz/rss/current
+npj Systems Biology and Applications | http://feeds.nature.com/npjsba/rss/current
+npj Vaccines | http://feeds.nature.com/npjvaccines/rss/current
+Oncogene | http://feeds.nature.com/onc/rss/current
+Pediatric Research | http://feeds.nature.com/pr/rss/current
+The Pharmacogenomics Journal | http://feeds.nature.com/tpj/rss/current
+Prostate Cancer and Prostatic Diseases | http://feeds.nature.com/pcan/rss/current
+Scientific Data | http://feeds.nature.com/sdata/rss/current
+Signal Transduction and Targeted Therapy | http://feeds.nature.com/sigtrans/rss/current
+Spinal Cord | http://feeds.nature.com/sc/rss/current
+Spinal Cord Series and Cases | http://feeds.nature.com/scsandc/rss/current
+Translational Psychiatry | http://feeds.nature.com/tp/rss/current
+SciBX: Science-Business eXchange | http://feeds.nature.com/scibx/rss/current
+Structural Biology Knowledgebase | http://www.sbkb.org/KB/whatsnew.rdf
+NEJM | http://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss
+Acta Haematologica Polonica | http://rss.sciencedirect.com/publication/science/00015814
+Acta Tropica | http://rss.sciencedirect.com/publication/science/0001706X
+Cancel Cell | http://www.cell.com/cancer-cell/inpress.rss
+Mol Cell | http://www.cell.com/molecular-cell/current.rss
+Trends in Imm | http://www.cell.com/trends/immunology/current.rss
+Trends in Microbiology | http://www.cell.com/trends/microbiology/current.rss
+Trends in Molecular Medicine | http://www.cell.com/trends/molecular-medicine/current.rss
+Trends in Parasitology | http://www.cell.com/trends/parasitology/current.rss
+Trends in Pharmacologica | http://www.cell.com/trends/pharmacological-sciences/current.rss
+Plant Science | http://www.cell.com/trends/plant-science/current.rss

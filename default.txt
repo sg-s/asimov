@@ -1,0 +1,11 @@
+# configuration file for asimov
+# rename this file to "config.txt"
+# and populate the fields below before running anything in this package
+
+[asimov-config]
+
+# Pubmed requires you to provide an email address to access their database. use your email here
+pubmed_email = 
+
+# to minimise the number of times we talk to pubmed, we can fetch articles in batches. what batch size do you want to use? 
+pubmed_batch_size = 20

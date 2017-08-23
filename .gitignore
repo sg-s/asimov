@@ -1,0 +1,16 @@
+*config.txt
+.DS_Store
+*.bib
+*__pycache__
+*.db
+*.pyc
+*.pickle
+*.html
+.vscode/*
+learning.md
+.idea/*
+*.pylintrc
+.ipynb_checkpoints*
+*.png
+*.pdf
+*.zip
