@@ -3,7 +3,7 @@ import os
 this_dir = os.path.dirname(os.path.realpath(__file__))
 
 # check that the config file exists 
-if not os.path.isfile(os.path.join(this_dir,'config.txt')):
+if not os.path.isfile(os.path.join(os.path.dirname(this_dir),'config.txt')):
     raise AssertionError('Could not find config file.')
 
 # from flask import Flask
